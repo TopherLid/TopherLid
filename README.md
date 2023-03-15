@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @TopherLid / from Chile
-- 👀 I’m interested in API Rest mainly in PHP
-- 🌱 I’m currently learning Springboot and LUA
-
+- 👀 I’m interested in Back-End Developing (PHP and Ruby)
+- 🌱 I’m currently learning Springboot and Ruby on Rails
